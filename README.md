@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achintyachaudhary
 - 👀 I’m interested in ... sM
-- 🌱 I’m currently learning ... golang
+- 🌱 I’m currently learning ... Elastic Search
 - 📫 How to reach me ... achintyac77@gmail.com | https://www.linkedin.com/in/achintyachaudhary/
 
 <!---
